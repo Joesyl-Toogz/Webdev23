@@ -1,0 +1,21 @@
+{
+  "name": "c",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Hello",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joesyl-Toogz/webdev2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joesyl-Toogz/webdev2/issues"
+  },
+  "homepage": "https://github.com/Joesyl-Toogz/webdev2#readme",
+  "devDependencies": {}
+}
